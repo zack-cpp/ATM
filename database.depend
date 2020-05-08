@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1566980452 source:e:\academy\code block\database\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566981235 source:e:\academy\code block\database\fread.c
+	<stdio.h>
+	<stdlib.h>
+
+1588862290 source:e:\academy\code block\database\meow.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
+1588819746 source:e:\academy\code block\database\menu.cpp
+	<iostream>
+
